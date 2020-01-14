@@ -1,4 +1,4 @@
 class post
   post.new
-
-post.title = "Hello World" 
+  puts post.title = "Hello World" 
+end
